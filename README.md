@@ -10,7 +10,7 @@ Skills
 
 🌱 I’m currently learning to build mobile applications with React Native.
 
-💞️ I’m looking to collaborate on fintech and edutech projects
+💞️ I’m looking to collaborate on fintech and edtech projects
 
 
 
