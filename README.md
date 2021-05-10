@@ -14,7 +14,7 @@ Software developer interested in creating software applications that solves prob
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="80"/> 
 </p>
 
-🌱 I’m currently learning to build mobile applications with React Native.
+🌱 I’m currently learning MERN stack.
 
 💞️ I’m looking to collaborate on fintech and edtech projects
 
