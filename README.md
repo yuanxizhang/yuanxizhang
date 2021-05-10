@@ -14,7 +14,7 @@ Full stack developer interested in creating software applications that solves pr
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="80"/> 
 </p>
 
-🌱 I’m currently learning MERN stack.
+🌱 I’m currently learning the Express.js framework.
 
 💞️ I’m looking to collaborate on fintech and edtech projects
 
