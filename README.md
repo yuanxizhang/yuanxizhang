@@ -1,6 +1,6 @@
 ## 👋  Hi, I’m Yancy 
 
-Software developer interested in creating software applications that solves problems for users and organizations.
+Full stack developer interested in creating software applications that solves problems for users and organizations.
 
 ## Skills
 <p float="left">
