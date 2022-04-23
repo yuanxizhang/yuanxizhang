@@ -1,6 +1,6 @@
 ## 👋  Hi, I’m Yancy 
 
-Software QA Engineer with experience in building software applications that solves problems for users and organizations.
+Software QA Engineer with experience in building and testing software applications that solves problems for users and organizations.
 
 ## Skills
 <p float="left">
