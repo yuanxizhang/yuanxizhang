@@ -1,6 +1,6 @@
 ## 👋  Hi, I’m Yancy 
 
-Full stack developer interested in creating software applications that solves problems for users and organizations.
+Software QA Engineer with experience in building software applications that solves problems for users and organizations.
 
 ## Skills
 <p float="left">
