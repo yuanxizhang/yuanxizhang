@@ -14,9 +14,9 @@ Software QA Engineer with experience in building software applications that solv
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="80"/> 
 </p>
 
-🌱 I’m currently learning the Express.js framework.
+🌱 I’m currently learning to build automated regression tests with Selenium Webdriver in python
 
-💞️ I’m looking to collaborate on fintech and edtech projects
+💞️ I’m looking to collaborate on Fintach and Edtech projects
 
 
 
